@@ -9,12 +9,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
+1. Kickoff meeting with stakeholders and delivery team (see [Meeting Templates](./octoacme-meeting-templates.md))
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
+4. Define Definition of Done (DoD) and Definition of Ready (DoR) — see [DoR & DoD](./octoacme-definition-of-ready-done.md)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Complete RACI-lite table — see [RACI Template](./octoacme-raci-template.md)
 
 ## Backlog Item Template
 - Title:
@@ -37,7 +38,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] RACI-lite table completed and reviewed
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Ready (DoR) documented
+- [ ] Definition of Done (DoD) documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Handoff checklist reviewed with the team

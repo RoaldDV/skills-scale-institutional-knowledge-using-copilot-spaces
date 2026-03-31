@@ -17,16 +17,24 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Engineer / Tester: validates quality and acceptance criteria.
+- UX Designer: ensures usability and user-centered design from ideation to delivery.
+- Scrum Master / Agile Coach: facilitates ceremonies and removes blockers.
+- Technical Writer: maintains documentation for processes, product usage, and onboarding.
+- Engineering Manager / Tech Lead: provides technical direction and mentors engineers.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for full descriptions and interaction patterns.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
+- RACI-lite table (see [RACI Template](./octoacme-raci-template.md))
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
+- Acceptance Criteria, Definition of Ready & Definition of Done (see [DoR/DoD](./octoacme-definition-of-ready-done.md))
 - Risk Register
 - Retrospective notes and action items
+- Handoff checklists (see [Handoff Checklist](./octoacme-handoff-checklist.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -40,6 +48,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+
+See [Meeting Templates & Cadence Guide](./octoacme-meeting-templates.md) for detailed agendas.
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
