@@ -8,7 +8,7 @@ OctoAcme delivers projects using iterative, customer-oriented practices focused 
 
 - **Customer-first mindset:** prioritize customer value and usability in every decision.
 - **Iterative delivery:** deliver small, testable increments to reduce risk and gather feedback early.
-- **Clear ownership:** each project has a named Project Manager (PM) and Product Lead responsible for delivery.
+- **Clear ownership:** each project has a named Project Manager (PM) and Product Manager (PdM) responsible for delivery.
 - **Data-informed decisions:** measure impact and iterate based on evidence and outcomes.
 - **Psychological safety:** encourage open feedback, learning, and improvement at every stage.
 
